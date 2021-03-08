@@ -15,3 +15,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jacobsamro&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jacobsamro&layout=compact&exclude_lang=java+makefile"/>
 </a>
+
+
+<img src="https://komarev.com/ghpvc/?username=jacobsamro">
+
+![](https://hit.yhype.me/github/profile?user_id=5327489)
